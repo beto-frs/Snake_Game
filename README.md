@@ -1,4 +1,4 @@
-<img src="..\img\ico.png" style="zoom:25%;" />
+<img src="https://github.com/beto-frs/Snake_Game/blob/master/img/ico.png" width="80px" />
 
 ## Recriando o jogo da cobrinha com JavaScript
 
